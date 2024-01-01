@@ -90,6 +90,7 @@ The following MIME types are accepted for the `contentType` field:
   * `video/mp4`
   * `video/webm`
   * `video/ogg`
+  * `application/vnd.apple.mpegurl` (HLS streams)
   * `application/x-mpegURL` (HLS streams)
     - HLS is only tested with livestreams.  VODs are accepted, but I do not test
       this functionality.

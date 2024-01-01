@@ -20,6 +20,7 @@ const SOURCE_QUALITIES = new Set([
 
 const SOURCE_CONTENT_TYPES = new Set([
     'application/dash+xml',
+    'application/vnd.apple.mpegurl',
     'application/x-mpegURL',
     'audio/aac',
     'audio/mp4',
